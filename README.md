@@ -1,16 +1,27 @@
-## Hi there 👋
+# David Lucian Panait
+**Software Engineering Student · Full-Stack & Cloud**
+I build full-stack applications, backend systems, and cloud infrastructure with a focus on **clean architecture, security, scalability, and reliability**.
+Currently deepening my expertise in **Spring Boot, AWS, Kubernetes, infrastructure as code, distributed systems, and cloud-native development**.
 
-<!--
-**DavidLucP/davidlucp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### ⚡ Tech Stack
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,hibernate,postgresql,mongodb,rabbitmq,kafka,prometheus,grafana,docker,kubernetes,aws,terraform)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠 Tools & Environment
+
+[![My Skills](https://skillicons.dev/icons?i=linux,github,git,postman,vscode,neovim,obsidian)](https://skillicons.dev)
+
+---
+### 💻Hardware
+
+`MacBook Pro M5 Pro` · `64GB RAM` · `1TB SSD` · `16"`
+
+---
+### 🎯 Focus
+
+**Full-Stack Development · Backend Engineering · Cloud Infrastructure · Cloud Security · Distributed Systems · Automation**
+```text
+Code → Build → Deploy → Secure → Automate → Scale
+```
