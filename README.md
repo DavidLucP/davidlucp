@@ -6,7 +6,7 @@ Currently deepening my expertise in **Spring Boot, AWS, Kubernetes, infrastructu
 ---
 ### ⚡ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,hibernate,postgresql,mongodb,rabbitmq,kafka,prometheus,grafana,docker,kubernetes,aws,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mongodb,rabbitmq,kafka,prometheus,grafana,docker,kubernetes,aws,terraform)](https://skillicons.dev)
 
 ---
 ### 🛠 Tools & Environment
